@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">estudante do 7º semestre de Ciência da Computação na Universidade Cruzeiro do Sul.<br>Estudando analise de dados</p>
+<p align="center">Formado em Ciência da Computação na Universidade Cruzeiro do Sul.<br>Estudando Analise de Dados</p>
 
 ###
 
